@@ -23,8 +23,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=CR-7;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+EUSEBIUS" alt="Typing SVG" /></a>
   </p>
 	 
-  <a aria-label="CR-7 is free to use" href="https://youtube.com/@keithkeizzah" target="_blank">
-    <img alt="Keithkeizzah" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="CR-7 is free to use" href="https://youtube.com/@Gee_shopers?si=2DNImah5qx2zD37D" target="_blank">
+    <img alt="CR-7" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
