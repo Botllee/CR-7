@@ -11,11 +11,11 @@
 	  
 </p>
 </a>
-<h1 align="center"><b>HEY I AM MR KEITH</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>HEY I AM CR-7</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,;Keith+is+an+active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,; CR-7+is+an+active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
 </p>
                        
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/10cac2ce2fbfcdcd0b6e8.jpg" alt="01" border="0" /></a>                     
