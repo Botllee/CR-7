@@ -1,7 +1,7 @@
 {
-  "name": "keith-md@1.2.8",
-  "description": "𝐈 𝐚𝐦 𝐊𝐞𝐢𝐭𝐡 𝐦𝐝.𝐃𝐞𝐚𝐝𝐥𝐲 𝐛𝐨𝐭 😂",
-  "logo": "https://telegra.ph/file/53fbc6bbfff88fd1d621b.jpg",
+  "name": "𝗖𝗥-𝟳 @1.2.8",
+  "description": "𝗖𝗥-𝟳 .𝐃𝐞𝐚𝐝𝐥𝐲 𝐛𝐨𝐭 😂",
+  "logo": "https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "༆𝐊𝐄𝐈𝐓𝐇 𝐓𝐄𝐂𝐇༒",
+      "value": "༆𝗘𝗨𝗦𝗘𝗕𝗜𝗨𝗦༒",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃"
+      "value": "𝗖𝗥-𝟳 "
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/24893b7355f6ee0312230.jpg"
+      "value": "https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254748387615"
+      "value": "254710415721,254785307181"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
