@@ -20,7 +20,7 @@
                        
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg" alt="01" border="0" /></a>                     
  <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐊𝐄𝐈𝐓𝐇_𝐌𝐃;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+𝐊𝐄𝐈𝐓𝐇𝐊𝐄𝐈𝐙𝐙𝐀𝐇" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=CR-7;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+EUSEBIUS" alt="Typing SVG" /></a>
   </p>
 	 
   <a aria-label="CR-7 is free to use" href="https://youtube.com/@keithkeizzah" target="_blank">
