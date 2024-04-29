@@ -15,16 +15,16 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
-global.github=process.env.GITHUB|| "https://github.com/Keithkeizzah/hunchoV2";
+global.github=process.env.GITHUB|| "https://github.com/Botllee/CR-7";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47";
-global.website=process.env.GURL || "https://youtube.com/@keithkeizzah?si=PviuOaZQHHvAjpxH" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/24893b7355f6ee0312230.jpg" ; // SET LOGO FOR IMAGE 
+global.website=process.env.GURL || "https://youtube.com/@Gee_shopers?si=2DNImah5qx2zD37D" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
 global.devs = "923184474176" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254748387615";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254710415721";
 
 
 
@@ -38,21 +38,21 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 3,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/24893b7355f6ee0312230.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
 global.readmessage = process.env.READ_MESSAGE || "false"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254748387615,254xxxxxxxx";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254710415721,254xxxxxxxx";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254748387615,254xxxxxxxx";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254710415721,254xxxxxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://keith-app-session-6d1313c4f8e5.herokuapp.com/";
@@ -64,12 +64,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙺𝙴𝙸𝚃𝙷-𝚃𝙴𝙲𝙷" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝗘𝗨𝗦𝗘𝗕𝗜𝗨𝗦" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "Keith",
   packname: process.env.PACK_NAME || "👑",
   botname : process.env.BOT_NAME  || "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃",
-  ownername:process.env.OWNER_NAME|| "It'x 𝐊𝐄𝐈𝐓𝐇",
+  ownername:process.env.OWNER_NAME|| "It'x 𝗘𝗨𝗦𝗘𝗕𝗜𝗨𝗦",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
