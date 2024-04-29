@@ -44,7 +44,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Keithkeizzah/hunchoV2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Botllee/CR-7/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -68,7 +68,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
 
     
-***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Keithkeizzah/hunchoV2)*** 
+***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Botllee/CR-7)*** 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -77,7 +77,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 - [Sam Pamday](https://github.com/Sampandey001) 
 
 
-The 𝗞𝗘𝗜𝗧𝗛 𝗠𝗗 is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The CR-7 is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
 
 <h2 align="center">  NOTICE
@@ -91,7 +91,7 @@ star repo if you like this bot✨
 -if any problem you can message me https://wa.me/message/CJGVIXZNWMKKE1
 
 
-* [`Keith keizzah`](https://github.com/Keithkeizzah) ***Author, Owner***
+* [`EUSEBIUS LUMITI`](https://github.com/Botllee) ***Author, Owner***
 
 * <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
