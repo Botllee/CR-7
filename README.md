@@ -68,7 +68,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
 
     
-***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Botllee/CR-7)*** 
+***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Botllee/EUSEBIUS-PRO)*** 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
